@@ -2,8 +2,8 @@
 # 👋 Hi, I'm Javier Clavijo
 I'm a Software Engineering student at the University of Seville, passionate about web development and artificial intelligence.
 
-🌱 Currently learning Vue.js, Express.js, and TypeScript
-🚀 I'm interested in building full-stack projects and AI solutions.
+🌱 Currently learning Vue.js, Express.js, and TypeScript  
+🚀 I'm interested in building full-stack projects and ML solutions.
 
 **Languages and tools:**  
 
