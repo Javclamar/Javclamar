@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Javier Clavijo
+# 👋 Hi, I'm Javier Clavijo
 I'm a Software Engineering student at the University of Seville, passionate about web development and artificial intelligence.
 
 🌱 Currently learning Vue.js, Express.js, and TypeScript
